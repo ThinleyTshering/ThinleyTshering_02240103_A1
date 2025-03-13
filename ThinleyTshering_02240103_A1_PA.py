@@ -111,5 +111,4 @@ def main():
             print("Invalid choice. Choose a number between 1 and 7 ")
 
 
-if __name__ == "__main__":
-    main()
+main()
